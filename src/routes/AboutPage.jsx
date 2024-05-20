@@ -11,7 +11,7 @@ class AboutPage extends React.Component {
                     <h1></h1>
                 </div>
                 <div>
-                    <h1 className='text-4xl'>This is a heading 2</h1>
+                    <h1 className='text-4xl'>About PROJECT</h1>
                 </div>
             </div>
 
@@ -19,7 +19,7 @@ class AboutPage extends React.Component {
                 <div>
 
                 </div>
-                <p className='text-xl'>This is a paragraph</p>
+                <p className='text-xl'>This is a simple BlockChain based project for voting. Smart contract is written in RUST language and uses CASPER blockchain. Usser interface is developed in REACT and TAILWIND.</p>
             </div>
         </div>
 

@@ -1,5 +1,4 @@
 import React from 'react';
-import { CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/react/20/solid';
 
 // This page only exists to showcase the Navbar
 
